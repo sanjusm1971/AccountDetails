@@ -1,2 +1,7 @@
  this is branch used for hot fix or feature release
+<<<<<<< HEAD
 added tag
+=======
+added a tag
+added tag v2.0
+>>>>>>> feature
